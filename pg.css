@@ -1,0 +1,71 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.upper {
+    width: 1680px;
+    height: 500px;
+    background: rgb(87, 0, 79);
+    color: rgb(243, 219, 0);
+    display: flex;
+}
+.text {
+    width: 400px;
+    margin-left: 255px;
+    margin-top: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+}
+.Dream {
+    margin-left: 170px;
+    margin-top: 65px;
+    transition: 0.1s;
+}
+.Dream:hover {
+    transform: scale(1.05);
+}
+.manga {
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+.guilherme {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    letter-spacing: 3px;
+    color: red;
+    background: black;
+    width: 1680px;
+    height: 60px;
+    margin-top: -22px;
+}
+.downer {
+    width: 1680px;
+    height: 600px;
+    background: black;
+}
+.transition {
+    background: linear-gradient(to bottom, rgb(87, 0, 79),  #000000);
+    margin-top: -22px;
+    width: 1680px;
+    height: 20px;
+}
+.ttl2 {
+    font-family: Verdana, Geneva, Tahoma;
+    letter-spacing: 1px;
+    color: red;
+}
+.algo {
+    background: linear-gradient(to top, rgb(87, 0, 79),  #000000);
+    margin-top: -22px;
+    width: 1680px;
+    height: 20px;
+}
+.vid {
+    margin-left: 70px;
+    transition: 0.1s;
+}
+.vid:hover {
+    transform: scale(1.05);
+}
+.cazum{
+    margin-bottom: 30px;
+}
